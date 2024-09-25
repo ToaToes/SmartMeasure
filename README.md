@@ -1,6 +1,6 @@
 # Smart Measure
-An Android app that measures the distance and height of an object using live camera
-feed and sensors. Also, it can measure various objects in a captured image using Image
+An Android app that measures the distance and height of an object using Camera API
+and Gyroscope sensors. Also, it can measure various objects in a captured image using Image (Updating)
 Processing techniques.
 
 <p>
@@ -18,3 +18,5 @@ Linked: https://prezi.com/view/kxQx8LRZSkPtxWUOiclo/
 
 - It should show the height of the object and the distance from the object.
 Note: the object must be on the ground. If not check the full documentation for futher instructions.
+
+Need to update the Gradle (gradle 2.14) and JAVA (JAVA 11)
