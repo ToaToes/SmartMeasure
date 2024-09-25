@@ -3,6 +3,8 @@ An Android app that measures the distance and height of an object using live cam
 feed and sensors. Also, it can measure various objects in a captured image using Image
 Processing techniques.
 
+Linked: https://prezi.com/view/kxQx8LRZSkPtxWUOiclo/
+
 In this mode the user uses the camera to adjust the phone at different angles. The app uses the accelerometer and gravity sensors to 
 measure the angles required to measure the object. 
 ### How to use
