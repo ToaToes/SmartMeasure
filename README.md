@@ -3,6 +3,10 @@ An Android app that measures the distance and height of an object using live cam
 feed and sensors. Also, it can measure various objects in a captured image using Image
 Processing techniques.
 
+<p>
+  <img width="460" height="300" src="https://github.com/ToaToes/SmartMeasure/blob/master/how.JPG">
+</p>
+
 Linked: https://prezi.com/view/kxQx8LRZSkPtxWUOiclo/
 
 ### How to use
